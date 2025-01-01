@@ -66,4 +66,5 @@ endmodule
 ![image](https://github.com/Gokhulraj2005/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849253/e14dccb4-7b28-4f1c-a2e5-84a6ebde86f4)
 
 *RESULTS*:
+
 Thus the SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
